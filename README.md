@@ -5,3 +5,4 @@
 ## Articles
 
 - [Executive](Executive.md)
+- [Board](Board.md)
