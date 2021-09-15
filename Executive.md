@@ -1,4 +1,4 @@
-# Article 1 - Execuitive
+# Executive
 
 ## §1 Executive Positions
 
