@@ -68,7 +68,8 @@
 5. Unless directed by the President, there shall be a meeting of the Board every month, except the month of April and November. 
 6. The President shall ensure that no member of the Board is subjected to any unreasonable requirements that prohibit or restrain their ability to attend meetings of the Board,
 7. A Meeting of the Board shall admit all members of the Board, and may also admit additional General Members or other persons within reason at the discretion of the President. Additional Attendees may be excluded at the request of a majority of the Membership.
-8. The President shall release an Agenda to the Board and to the Head of Operations for the meeting at least 48 hours prior to any meeting of the Board. The President shall release Minutes to the Head of Operations at most 48 hours after any meeting of the Board.
+8. During a Meeting of the Board, only Board Members in attendance shall be entitled to a vote and count towards quorum.
+9. The President shall release an Agenda to the Board and to the Head of Operations for the meeting at least 48 hours prior to any meeting of the Board. The President shall release Minutes to the Head of Operations at most 48 hours after any meeting of the Board.
 
 ## §8 Rules of Order and Authority
 1. The Board shall be goverened by the [Robert's Rules of Order (Newly Revised)](http://rulesonline.com/) and/or any other rules that the Board may adopt by simple-majority (collectively "Rules of Order").
