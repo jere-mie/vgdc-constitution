@@ -6,7 +6,7 @@
 
 2. These positions shall be elected in according to the procedures set forth below and by the board consistent with the below. 
 
-3. The Execution Positions shall each be held with the confidence of the Board, and may be removed on a basis of non-confidence by a *simple-majority* vote of the board. The Board may also, by *two-thirds* disband the whole executive and submit for return ballots of election for all executive positions.
+3. The Executive Positions shall each be held with the confidence of the Board, and may be removed on a basis of non-confidence by a *simple-majority* vote of the board. The Board may also, by *two-thirds* disband the whole executive and submit for return ballots of election for all executive positions.
 
 4. Each person who holds or who is elected into an Executive Position shall be a Full Time Undergradute Students at the University of Windsor during the Fall and Winter Semesters (hereinafter "Primary Term") of their term, and shall be Undergraduate Student at the University of Windsor during the Summer and Intersession Semesters immediately prior to their Primary Term.
 
@@ -28,21 +28,22 @@
 
 1. The President of the VGDC (hereinafter "President") shall be position elected every 1 year by the membership of the VGDC by ballot returned not later than the 5th of May in that year, but may be sooner as the Board may demand when the position may be vacant. 
 2. The procedures for the election of the position of President are detailed below.
-
-3. The President shall be the Head of the Board of the VGDC, and shall Preside over it and all meetings thereof, and may direct the Vice President on to do so on a temporary basis. 
-4. The President shall have the authority to convene meetings of the Board, subject to the requirements of such, as they may see fit and to provide such mechanisms for determining the time, place, and manner for those meetings, and shall also have the authority to decide unliterally the time, place, and manner for such. 
-5. The President may compel members of the Board to act on mechanisms for determining the time, place, and manner for those meetings, and may compel the attendence of members absent just cause, and may set the penalties for noncompliance within the VGDC to be imposed by the Board.
-6. The President may admit and dismiss general members of the club, and set reasonable, non-discriminatory, requirements for membership. General Members shall not include any person holding a position on the Board or any Executive Position.
-8. The President may remove any Non-Executive position from the board, confirmed by a vote of 2/3s majority from the Board and sustained by at least one other Executive Position. When the Positions of Vice President and Treasurer may be Vacant, the order may be sustained by 2 members of the board
-9. The President may direct the Vice President to assume on a temporary basis any duties and authorities granted to the President, and may voluntarily vacate the position to the Vice President.
-10. The Person who held the position of President under the University of Windsor Video Game Design Club "Founder Rules" prior to the adoption of this constitution shall continue in that position until ballots for the position may be returned and the position is subsequently elected, which shall occur not later than 1 month following the adoption of this constitution.
+3. The President shall have the following duties and authorities, and shall take due care in the exercise thereof:
+    - To be the Head of the VGDC,
+    - To Preside over the Board and all meetings thereof,
+    - To convene meetings of the Board, subject to the requirements set by this Constitution and by the Board,
+    - To set the time, place, and manner for meetings of the Board and to provide mechanisms for determining such,
+    - To admit General Members into and dismiss Genernal Members from the VGDC and to set reasonable, non-discriminatory, requirements for membership,
+    - To order the removal of any Board Member other than an executive position, which must be sustained by one other executive, and approved by a *two-thirds majority* vote of the Board, and
+    - To instruct the Vice President to assume on a temporary basis to assume any or all of the authorities herein and to voluntarily vacate the position to the Vice President
+4. Whenever the Position of Vice President or Treasurer may be vacant, the President shall appoint a on a temporary basis, a replacement for that position, or may instruct the board to issue ballots for the positions which shall be returned after 1 month. 
 
 ## §3 Vice President
 
 1. The Vice President of the VGDC (hereinafter "Vice President") shall be a position elected every 1 year by the membership of the VGDC by ballot returned not later than the 5th of May in that year, but may be sooner as the Board may demand when the position may be vacant. 
 2. The procedures for the election of the position of Vice President are detailed below.
-3. The Vice President shall act in the position of President with all authorities and duties therein prescribed when directed to do so and whenever the position may be vacant. The Vice President may sustain removal orders issued by the president except where the order was issued while they are acting in that position. 
-4. The Person who held the position of Vice President under the University of Windsor Video Game Design Club "Founder Rules" prior to the adoption of this constitution shall continue in that position until ballots for the position may be returned and the position is subsequently elected, which shall occur not later than 1 month following the adoption of this constitution.
+3. The Vice President shall act in the position of President with all authorities and duties therein prescribed when directed to do so and whenever the position may be vacant. 
+
 
 ## §4 Election of President and Vice President
 
@@ -51,7 +52,8 @@
 2. On return of the ballot, the person who has the most number of votes for the position shall be elected the President and the person with the next most number of votes shall be elected the Vice President. 
 3. If two or more persons may be tied for the most number of votes, then the Board, excluding the positions of President and Vice President but including the Position of Treasurer who shall preside, shall vote to choose from those tied who shall hold the Position of President and who shall hold the Position of Vice President. 
 4. If the Position of Treasurer and the Positions of President and Vice President are all tied on the ballot, then the Board shall choose a competent member to preside over while choosing all 3 positions.
-4. Immediately after the return of ballots, the President shall convene a meeting of the Board within 1 month, which shall present a question of confidence in the positions of President and Vice President
+5. Immediately after the return of ballots, the President shall convene a meeting of the Board within 1 month, which shall present a question of confidence in the positions of President and Vice President
+6. If a ballot is issued by the Board at the instruction of the President for solely the position of Vice President, then it shall act as a joint ballot, but shall not elect the position of President, and the person who recieves the most number of votes shall become the Vice President.
 
 ## §5 Treasurer
 
