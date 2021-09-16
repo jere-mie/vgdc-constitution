@@ -64,11 +64,12 @@
 6. Ballots for the position of Treasurer shall be issued not later than the 1st of April and shall name as candidates for the position any person who voluntarily nominates themselves as such and who meets the requirements for the position as set forth by this Constitution and any reasonable, non-discriminatory, requirements set by the Board. Upon return of the Ballots, the person who receives the most votes shall be elected Treasurer.
 7. The Treasurer shall preside over the Board when the Board may resolve ties in the positions of Vice President and President. In the event that the position for Treasurer is tied, then the Board shall choose the Treasurer from those tied.
 8. The Person who held the position of Treasurer under the University of Windsor Video Game Design Club "Founder Rules" prior to the adoption of this constitution shall continue in that position until ballots for the position may be returned and the position is subsequently elected, which shall occur not later than 1 month following the adoption of this constitution.
+9. The Treasurer of the VGDC shall keep and maintain any Bank or Credit Card possessed by the VGDC and issued by the UWSA to the VGDC, and be charged with the proper usage thereof in accordance with this section and the USWA Requirements.
 
 
 ## §6 Removal of Board Members and Executives
 
-1. The President shall have the sole power to order removal of any Member of the Board except for any executive. This order shall be sustained by one other Executive and confirmed by *two-thirds majority* by the board. The results of the vote, other than the final outcome shall not be published
-2. Upon confirmation of a removal order, the Board Member shall cease to hold their position and the position shall become vacant. 
-3. If the ultimate result of a confirmation vote does not meet the requirements of *two-thirds* the order shall be automatically vacated. The order may also be vacated by a *simple-majority*. 
-4. Each executive position shall serve at the will of and with the confidence of the Board, and may be removed by a *simple-majority* vote on a basis of Non-confidence. 
+10. The President shall have the sole power to order removal of any Member of the Board except for any executive. This order shall be sustained by one other Executive and confirmed by *two-thirds majority* by the board. The results of the vote, other than the final outcome shall not be published
+11. Upon confirmation of a removal order, the Board Member shall cease to hold their position and the position shall become vacant. 
+12. If the ultimate result of a confirmation vote does not meet the requirements of *two-thirds* the order shall be automatically vacated. The order may also be vacated by a *simple-majority*. 
+13. Each executive position shall serve at the will of and with the confidence of the Board, and may be removed by a *simple-majority* vote on a basis of Non-confidence. 
