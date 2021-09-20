@@ -4,6 +4,6 @@
 
 ## Articles
 
-- [Executive](Executive.md)
-- [Board](Board.md)
-- [General](General.md)
+1. [General](General.md)
+2. [Executive](Executive.md)
+3. [Board](Board.md)
