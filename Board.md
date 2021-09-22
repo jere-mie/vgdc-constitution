@@ -10,12 +10,14 @@
     - Head of Operation.
 3. Each Board Head shall be an Undergraduate Student at the University of Windsor during their term. 
 4. Any Board Head may voluntarily resign their position.
+5. The Board may, by *simple-majority*, establish a new Board Position and assign its duties and authorities, and, as a result, adjust the number of members of the Board, but *two-thirds* shall be required to abolish any Board Position.
 
-## §2 Election of Board Heads
+## §2 Election of Board Heads and other Board Positions
 1. The Board shall, not later than the 1st of March of every year, issue ballots for each Board Head position, which shall name each person who voluntarily nominates themselves and meets the requirements of the position as set by this constitution or the reasonable, non-discriminatory, requirements set by the Board.
 2. Each such ballot issue shall be returned by the 5th of April of every year, and the person on each ballot with the most votes shall be elected to that position and shall immediately be seated to the Board. 
 3. If two or more people are tied for the most votes for a position, then the Board shall issue a ballot for the position, returned not later than the 5th of May, naming each person so tied (hereinafter "tiebreaker ballot"). If the returned ballots are tied, the Executive shall choose by majority from among those tied on the tiebreaker ballot.
 4. Each Board Head position shall be vacated by the 5th of May or when a new member is seated to the Board, whichever may happen first.
+5. The Board may by *simple-majority* change the date at which ballots for a particular Board Position are issued and returned, and shall publish such changes.
 
 ## §3 Head of Events.
 1. One member of the Board shall be Head of Events. 
@@ -56,6 +58,7 @@
     - To make records maintained above available to the Board and to any member of the Board upon request
     - To publish minutes from meetings in a location accessible to the General Members, unless the President or one half of the attendance of the meeting may request the minutes be held privately,
     - To set and implement policies regarding the publication of minutes, at the direction of the Board,
+    - To Maintain records of changes in the dates of election for each Board Position,
     - To report to the Vice President and the Board, any issues in the operation of the VGDC, and
     - To maintain any additional records necessary for the operation of the VGDC.
 3. If the position of Head of Operations may be Vacant, then the Vice President may exercise the above duties and authorities.
@@ -71,7 +74,7 @@
 8. During a Meeting of the Board, only Board Members in attendance shall be entitled to a vote and count towards quorum.
 9. The President shall release an Agenda to the Board and to the Head of Operations for the meeting at least 48 hours prior to any meeting of the Board. The President shall release Minutes to the Head of Operations at most 48 hours after any meeting of the Board.
 
-## §8 Rules of Order and Authority
+## §8 Rules of Order, Authority, and Amendment
 1. The Board shall be governed by the [Robert's Rules of Order (Newly Revised)](http://rulesonline.com/) and/or any other rules that the Board may adopt by simple-majority (collectively "Rules of Order").
 2. This Constitution shall supersede the Rules of Order and procedure where they may inconsistent, but nothing in this constitution shall preclude the Board from restraining any authority granted by it to the Board.
 3. The Board may not delegate any authority granted to it to any other person or body.
