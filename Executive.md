@@ -6,7 +6,7 @@
 
 2. These positions shall be elected in according to the procedures set forth below and by the board consistent with the below. 
 
-3. Each person who holds or who is elected into an Executive Position shall be a Full Time Undergradute Students at the University of Windsor during the Fall and Winter Semesters (hereinafter "Primary Term") of their term, and shall be Undergraduate Student at the University of Windsor during the Summer and Intersession Semesters immediately prior to their Primary Term.
+3. Each person who holds or who is elected into an Executive Position shall be a Full Time Undergradute Student at the University of Windsor during the Fall and Winter Semesters (hereinafter "Primary Term") of their term, and shall be Undergraduate Student at the University of Windsor during the Summer and Intersession Semesters immediately prior to their Primary Term.
 
 ### §1.1 Correspondance with the UWSA
 
@@ -19,7 +19,7 @@
 
 4. Notwithstanding (3), this document may impose limitations on the exercise of authorities granted to the Signing Authorities as described below. No person who is an executive of the club shall exercise any such authority so limited if the requirements of the limitation are not met.
 
-5. Notwithstanding (3), no person who does not hold position as an Executive of the VGDC shall exercise any authority so granted by the UWSA to the Signing Authorities of any Student Group with respect to the VGDC without consent of the Board.
+5. Notwithstanding (3), no person who does not hold position as an Executive of the VGDC shall exercise any authority so granted by the UWSA to the Signing Authorities of any Student Group with respect to the VGDC, without consent of the Board.
 
 ## §2 President
 
@@ -28,6 +28,7 @@
 3. The President shall have the following duties and authorities, and shall take due care in the exercise thereof:
     - To be the Head of the VGDC,
     - To Preside over the Board and all meetings thereof,
+    - To be the Chair of the Board,
     - To convene meetings of the Board, subject to the requirements set by this Constitution and by the Board,
     - To set the time, place, and manner for meetings of the Board and to provide mechanisms for determining such,
     - To admit General Members into and dismiss General Members from the VGDC and to set reasonable, non-discriminatory, requirements for membership,
@@ -54,6 +55,7 @@
 5. Immediately after the return of ballots, the President shall convene a meeting of the Board within 1 month, which shall present a question of confidence in the positions of President and Vice President
 6. If a ballot is issued by the Board at the instruction of the President for solely the position of Vice President, then it shall act as a joint ballot, but shall not elect the position of President, and the person who receives the most number of votes shall become the Vice President. If such a ballot is tied, then the President presides over the meeting and the Board, absent the position of Vice President, shall choose from among those tied, the person to be elected Vice President.
 
+
 ## §5 Treasurer
 
 
@@ -61,7 +63,7 @@
 2. The Treasurer shall have the following duties and authorities:
     - To keep and maintain the financial records of the VGDC,
     - To present the financial records upon request to the President, the Board, or any other body authorized by the Board or the Governing Rules to do so,
-    - By and with the consent of the Board, and any additional authority so required, to appropriate or requestion funds, and to spend them for the use of the VGDC, and to authorize such,
+    - By and with the consent of the Board, and any additional authority required by the Governing Rules, to appropriate or requestion funds, and to spend them for the use of the VGDC, and to authorize such,
     - To hold any and all bank cards and credit cards issued by the UWSA to the VGDC and to maintain records of use thereof,
     - To preside over the Board while it decides ties on the Joint Ballot for President and Vice President,
 3. Not later than the 1st of April, or as the Board may otherwise demand, the Board shall issue ballots for the position of Treasurer, in which persons who voluntarily nominate themselves for the position and meet the requirements of the position as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot.
@@ -69,7 +71,7 @@
 
 ## §6 Removal of Board Members and Executives
 
-10. The President shall have the sole power to order removal of any Member of the Board except for any executive. This order shall be sustained by one other Executive and confirmed by *two-thirds majority* by the board. The results of the vote, other than the final outcome shall not be published
+10. The President shall have the sole power to order removal of any Member of the Board except for any executive. This order shall only be effective when sustained by one other Executive and confirmed by *two-thirds majority* by the board. The results of the vote, other than the final outcome shall not be published
 11. Upon confirmation of a removal order, the Board Member shall cease to hold their position and the position shall become vacant. 
 12. If the ultimate result of a confirmation vote does not meet the requirements of *two-thirds* the order shall be automatically vacated. The order may also be vacated by a *simple-majority*. 
 13. Each executive position shall serve at the will of and with the confidence of the Board, and may be removed by a *simple-majority* vote on a basis of Non-confidence. 
