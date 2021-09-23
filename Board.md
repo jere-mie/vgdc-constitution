@@ -62,6 +62,7 @@
     - To report to the Vice President and the Board, any issues in the operation of the VGDC, and
     - To maintain any additional records necessary for the operation of the VGDC.
 3. If the position of Head of Operations may be Vacant, then the Vice President may exercise the above duties and authorities.
+4. While the positions of President and Vice President may both be Vacant, the Head of Operations shall preside over and have the authority to convene the Board, and shall instruct the Board to issue joint ballots for President and Vice President and may also instruct the board to issue ballots for the position of Treasurer, and any other board positions, as those positions may be vacant.
 
 ## §7 Meetings of the Board.
 1. A meeting of the Board shall be convened at the discretion of the President, or when one half of the Board may request such,
@@ -73,6 +74,7 @@
 7. A Meeting of the Board shall admit all members of the Board, and may also admit additional General Members or other persons within reason at the discretion of the President. Additional Attendees may be excluded at the request of a majority of the Membership.
 8. During a Meeting of the Board, only Board Members in attendance shall be entitled to a vote and count towards quorum.
 9. The President shall release an Agenda to the Board and to the Head of Operations for the meeting at least 48 hours prior to any meeting of the Board. The President shall release Minutes to the Head of Operations at most 48 hours after any meeting of the Board.
+
 
 ## §8 Rules of Order, Authority, and Amendment
 1. The Board shall be governed by the [Robert's Rules of Order (Newly Revised)](http://rulesonline.com/) and/or any other rules that the Board may adopt by simple-majority (collectively "Rules of Order").

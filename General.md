@@ -10,7 +10,7 @@
 
 3. The VGDC shall be a Registered Student Group with the University of Windsor Student Association (UWSA).
 4. The VGDC shall be governed by the By-Laws and Constitution of the UWSA, and requirements set by the UWSA for Student Groups (collectively "Governing Rules"), and such shall overrule anything herein to the contrary.
-5. The VGDC is otherwise not affilated with, nor represents the actions or intents of the UWSA. 
+5. The VGDC is otherwise not affiliated with, nor represents the actions or intents of the UWSA. 
 
 
 ## §3 Membership
@@ -25,9 +25,9 @@
 
 10. The VGDC seeks to reasonably protect it's members from undue discrimination by the Executive and Board thereof, including, but not limited to, discrimination on the basis of Sex, Gender, Religion, Race, Sexual Orientation, Ethnicity, or Creed (collectively "Protected Class" or "Protected Classes"). 
 11. The President shall not admit or dismiss General Members of the VGDC on the basis of a Protected Class, nor set restrictions on Membership based on a Protected Class.
-12. The Board shall set no requirements on Board Members or on the Executive Posititons based on a Protected Class.
+12. The Board shall set no requirements on Board Members or on the Executive Positions based on a Protected Class.
 13. Notwithstanding the above, The President, the Head of Community, and the Board, are authorized, collectively and independently, to set and implement policies to protect General Members from discrimination, provided such policies are defined and implemented uniformly without regard to membership of a Protected Class.
-14. In interpreting the above, "on the basis of" shall be taken to mean a but-for causality, and discrimination shall mean discrimination of a particular person or persons, rather than a collective group of people.
+14. In interpreting the above, "on the basis of" or "based on" shall be taken to mean a but-for causality, and discrimination shall mean discrimination of a particular person or persons, rather than a collective group of people.
 
 ## §5 Interpretation
 
