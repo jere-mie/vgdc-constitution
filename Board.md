@@ -13,7 +13,7 @@
 5. The Board may, by *simple-majority*, establish a new Board Position and assign its duties and authorities, and, as a result, adjust the number of members of the Board, but *two-thirds* shall be required to abolish any Board Position.
 
 ## §2 Election of Board Heads and other Board Positions
-1. The Board shall, not later than the 1st of March of every year, issue ballots for each Board Head position, which shall name each person who voluntarily nominates themselves and meets the requirements of the position as set by this constitution or the reasonable, non-discriminatory, requirements set by the Board.
+1. The Board shall, not later than the 31st of March of every year, issue ballots for each Board Head position, which shall name each person who voluntarily nominates themselves and meets the requirements of the position as set by this constitution or the reasonable, non-discriminatory, requirements set by the Board.
 2. Each such ballot issue shall be returned by the 5th of April of every year, and the person on each ballot with the most votes shall be elected to that position and shall immediately be seated to the Board. 
 3. If two or more people are tied for the most votes for a position, then the Board shall issue a ballot for the position, returned not later than the 5th of May, naming each person so tied (hereinafter "tiebreaker ballot"). If the returned ballots are tied, the Executive shall choose by majority from among those tied on the tiebreaker ballot.
 4. Each Board Head position shall be vacated by the 5th of May or when a new member is seated to the Board, whichever may happen first.

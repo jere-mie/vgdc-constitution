@@ -47,7 +47,7 @@
 
 ## §4 Election of President and Vice President
 
-1. Not later than the 1st of April of every year, or as the board may otherwise demand, the board shall issue a joint ballot for the positions of President and Vice President, in which persons who voluntarily nominate themselves for the positions and meet the requirements of the positions as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot. 
+1. Not later than the 31st of April of every year, or as the board may otherwise demand, the board shall issue a joint ballot for the positions of President and Vice President, in which persons who voluntarily nominate themselves for the positions and meet the requirements of the positions as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot. 
 
 2. On return of the ballot, the person who has the most number of votes for the position shall be elected the President and the person with the next most number of votes shall be elected the Vice President. 
 3. If two or more persons may be tied for the most number of votes, then the Board, excluding the positions of President and Vice President but including the Position of Treasurer who shall preside, shall vote to choose from those tied who shall hold the Position of President and who shall hold the Position of Vice President. 
