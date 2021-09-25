@@ -34,7 +34,7 @@
     - To admit General Members into and dismiss General Members from the VGDC and to set reasonable, non-discriminatory, requirements for membership,
     - To order the removal of any Board Member other than an executive position, in accordance with the policy set forth below, and
     - To instruct the Vice President to assume, on a temporary basis, any or all of the authorities herein and to voluntarily vacate the position to the Vice President
-4. Whenever the Position of Vice President or Treasurer may be vacant, the President may appoint, on a temporary basis, a replacement for that position, or may instruct the board to issue ballots for the positions which shall be returned after 1 month from date of issue.
+4. Whenever the Position of Vice President or Treasurer may be vacant, the President may appoint, on a temporary basis, a replacement for that position, or may instruct the board to issue ballots for the positions which shall be returned 48 hours from the date of issue.
 5. The President shall be responsible for any and all interactions with the UWSA, and shall be responsible for ensuring that the VGDC meets the requirements for a Student Group with the UWSA and remains such.
 
 ## §3 Vice President
