@@ -1,4 +1,4 @@
-# General
+# Article I - General
 
 ## §1 Name of the Organization
 

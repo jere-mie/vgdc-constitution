@@ -1,4 +1,4 @@
-# Board
+# Article III - Board
 
 ## §1 The Board of The Video Game Design Club
 

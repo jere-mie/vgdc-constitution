@@ -1,4 +1,4 @@
-# Executive
+# Article II - Executive
 
 ## §1 Executive Positions
 
@@ -10,8 +10,7 @@
 
 ### §1.1 Correspondance with the UWSA
 
-1. The positions designated as President, Vice President, and Treasurer in the VGDC shall be those positions as reported by the club to the University of Windsor Student Association (Hereinafter "UWSA"),
-  and shall be the signing authorities of the club as reported to the UWSA.
+1. The positions designated as President, Vice President, and Treasurer in the VGDC shall be those positions as reported by the club to the University of Windsor Student Association (Hereinafter "UWSA"), and shall be the signing authorities of the club as reported to the UWSA.
 
 2. The point of contact for the club with the UWSA shall be the President, or Vice President while the position of President may be vacant. 
 
@@ -66,7 +65,7 @@
     - By and with the consent of the Board, and any additional authority required by the Governing Rules, to appropriate or requestion funds, and to spend them for the use of the VGDC, and to authorize such,
     - To hold any and all bank cards and credit cards issued by the UWSA to the VGDC and to maintain records of use thereof,
     - To preside over the Board while it decides ties on the Joint Ballot for President and Vice President,
-3. Not later than the 1st of April, or as the Board may otherwise demand, the Board shall issue ballots for the position of Treasurer, in which persons who voluntarily nominate themselves for the position and meet the requirements of the position as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot.
+3. Not later than the 31st of April, or as the Board may otherwise demand, the Board shall issue ballots for the position of Treasurer, in which persons who voluntarily nominate themselves for the position and meet the requirements of the position as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot.
 4. On return of the ballot, the person who has the most number of votes for the position shall be elected Treasurer. If two or more persons may be tied for the most number of votes, then the Board, absent the treasurer, shall choose, from among those tied, the person who shall be hold the position of Treasurer. 
 
 ## §6 Removal of Board Members and Executives
@@ -74,4 +73,4 @@
 10. The President shall have the sole power to order removal of any Member of the Board except for any executive. This order shall only be effective when sustained by one other Executive and confirmed by *two-thirds majority* by the board. The results of the vote, other than the final outcome shall not be published
 11. Upon confirmation of a removal order, the Board Member shall cease to hold their position and the position shall become vacant. 
 12. If the ultimate result of a confirmation vote does not meet the requirements of *two-thirds* the order shall be automatically vacated. The order may also be vacated by a *simple-majority*. 
-13. Each executive position shall serve at the will of and with the confidence of the Board, and may be removed by a *simple-majority* vote on a basis of Non-confidence. 
+13. Each executive position shall serve at the will of and with the confidence of the Board, and may be removed by a *simple-majority* vote on a basis of Non-confidence. The entire executive may also be disbanded and all posititions thereof vacated by a *simple-majority* vote of the Board. The Board shall then issue joint ballots for the positions of president and vice president, and ballots for the position of treasurer. 
