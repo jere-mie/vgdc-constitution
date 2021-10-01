@@ -15,8 +15,8 @@
 ## §2 Election of Board Heads and other Board Positions
 1. The Board shall, not later than the 31st of March of every year, issue ballots for each Board Head position, which shall name each person who voluntarily nominates themselves and meets the requirements of the position as set by this constitution or the reasonable, non-discriminatory, requirements set by the Board.
 2. Each such ballot issue shall be returned by the 5th of April of every year, and the person on each ballot with the most votes shall be elected to that position and shall immediately be seated to the Board. 
-3. If two or more people are tied for the most votes for a position, then the Board shall issue a ballot for the position, returned not later than the 5th of May, naming each person so tied (hereinafter "tiebreaker ballot"). If the returned ballots are tied, the Executive shall choose by majority from among those tied on the tiebreaker ballot.
-4. Each Board Head position shall be vacated by the 5th of May or when a new member is seated to the Board, whichever may happen first.
+3. If two or more people are tied for the most votes for a position, then the Board shall issue a ballot for the position, returned not later than the 9th of April, naming each person so tied (hereinafter "tiebreaker ballot"). If the returned ballots are tied, the Executive shall choose by majority from among those tied on the tiebreaker ballot.
+4. Each Board Head position shall be vacated by the 9th of April or when a new member is seated to the Board, whichever may happen first.
 5. The Board may by *simple-majority* change the date at which ballots for a particular Board Position are issued and returned, and shall publish such changes.
 
 ## §3 Head of Events.
@@ -42,11 +42,12 @@
 2. The Head of Development shall have the following duties and authorities:
     - To maintain any official projects of the VGDC, on the official Github Organization of the VGDC and in other official locations,
     - To assign additional maintainers to official projects,
-    - To authorize projects conducted by the General Membership (hereinafter "Member Projects") under the VGDC,
+    - To authorize official projects conducted by the General Membership (hereinafter "Member Projects") under the VGDC,
     - To appoint General Members to the position of "Project Leads" with respect to Member Projects,
     - To receive reports and concerns from Project Leads regarding Member Projects and to report such to the President, and
     - To submit to the Treasurer, requests for funds related to Member Projects and official projects.
 3. If the position of Head of Development may be Vacant, then the President may exercise the above duties and authorities.
+4. The imposition of, or adjustments to, a fee for Member Projects shall only be with consent of the Head of Development and the Treasurer and consent of the Board.
 
 ## §6 Head of Operations.
 1. One member of the Board shall be Head of Operations.
@@ -55,8 +56,8 @@
     - To receive ballots on return,
     - To set and implement procedures for issuance and return of ballots at the direction of the Board,
     - To maintain records from meetings of the Board, including approved and unapproved Minutes, Agendas, and attendance records,
-    - To make records maintained above available to the Board and to any member of the Board upon request
-    - To publish minutes from meetings in a location accessible to the General Members, unless the President or one half of the attendance of the meeting may request the minutes be held privately,
+    - To make records maintained above available to the Board and to any member of the Board upon request,
+    - To publish approved minutes from meetings in a location accessible to the General Members, unless the President or one half of the attendance of the meeting may request the minutes be held privately,
     - To set and implement policies regarding the publication of minutes, at the direction of the Board,
     - To Maintain records of changes in the dates of election for each Board Position,
     - To report to the Vice President and the Board, any issues in the operation of the VGDC, and
