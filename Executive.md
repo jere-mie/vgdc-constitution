@@ -22,7 +22,7 @@
 
 ## §2 President
 
-1. The President of the VGDC (hereinafter "President") shall be position elected every 1 year by the membership of the VGDC by ballot returned not later than the 5th of May in that year, but may be sooner as the Board may demand when the position may be vacant. 
+1. The President of the VGDC (hereinafter "President") shall be position elected every 1 year by the membership of the VGDC by ballot returned not later than the 5th of April in that year, but may be sooner as the Board may demand when the position may be vacant. 
 2. The procedures for the election of the position of President are detailed below.
 3. The President shall have the following duties and authorities, and shall take due care in the exercise thereof:
     - To be the Head of the VGDC,
@@ -38,7 +38,7 @@
 
 ## §3 Vice President
 
-1. The Vice President of the VGDC (hereinafter "Vice President") shall be a position elected every 1 year by the membership of the VGDC by ballot returned not later than the 5th of May in that year, but may be sooner as the Board may demand when the position may be vacant. 
+1. The Vice President of the VGDC (hereinafter "Vice President") shall be a position elected every 1 year by the membership of the VGDC by ballot returned not later than the 5th of April in that year, but may be sooner as the Board may demand when the position may be vacant. 
 2. The procedures for the election of the position of Vice President are detailed below.
 3. The Vice President shall act in the position of President with all authorities and duties therein prescribed when directed to do so and whenever the position may be vacant. 
 4. The Vice President shall be responsible for any and all interactions with other Student Groups at the University of Windsor.
@@ -46,26 +46,26 @@
 
 ## §4 Election of President and Vice President
 
-1. Not later than the 31st of April of every year, or as the board may otherwise demand, the board shall issue a joint ballot for the positions of President and Vice President, in which persons who voluntarily nominate themselves for the positions and meet the requirements of the positions as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot. 
+1. Not later than the 31st of March of every year, or as the board may otherwise demand, the board shall issue a joint ballot for the positions of President and Vice President, in which persons who voluntarily nominate themselves for the positions and meet the requirements of the positions as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot. 
 
 2. On return of the ballot, the person who has the most number of votes for the position shall be elected the President and the person with the next most number of votes shall be elected the Vice President. 
 3. If two or more persons may be tied for the most number of votes, then the Board, excluding the positions of President and Vice President but including the Position of Treasurer who shall preside, shall vote to choose from those tied who shall hold the Position of President and who shall hold the Position of Vice President. 
 4. If the Position of Treasurer and the Positions of President and Vice President are all tied on the ballot, then the Board shall choose a competent member to preside while choosing all 3 positions.
-5. Immediately after the return of ballots, the President shall convene a meeting of the Board within 1 month, which shall present a question of confidence in the positions of President and Vice President
+5. At the first meeting of the Board following the election and seating of all Board Positions, the question of confidence in the positions of President and Vice President shall automatically be considered.
 6. If a ballot is issued by the Board at the instruction of the President for solely the position of Vice President, then it shall act as a joint ballot, but shall not elect the position of President, and the person who receives the most number of votes shall become the Vice President. If such a ballot is tied, then the President presides over the meeting and the Board, absent the position of Vice President, shall choose from among those tied, the person to be elected Vice President.
 
 
 ## §5 Treasurer
 
 
-1. The Treasurer of the VGDC (hereinafter "Treasurer") shall be a position elected every 1 year by the members of the VGDC, by ballot returned on the 5th of May of that year or earlier as the Board may demand. 
+1. The Treasurer of the VGDC (hereinafter "Treasurer") shall be a position elected every 1 year by the members of the VGDC, by ballot returned on the 5th of April of that year or earlier as the Board may demand. 
 2. The Treasurer shall have the following duties and authorities:
     - To keep and maintain the financial records of the VGDC,
     - To present the financial records upon request to the President, the Board, or any other body authorized by the Board or the Governing Rules to do so,
     - By and with the consent of the Board, and any additional authority required by the Governing Rules, to appropriate or requestion funds, and to spend them for the use of the VGDC, and to authorize such,
     - To hold any and all bank cards and credit cards issued by the UWSA to the VGDC and to maintain records of use thereof,
     - To preside over the Board while it decides ties on the Joint Ballot for President and Vice President,
-3. Not later than the 31st of April, or as the Board may otherwise demand, the Board shall issue ballots for the position of Treasurer, in which persons who voluntarily nominate themselves for the position and meet the requirements of the position as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot.
+3. Not later than the 31st of March, or as the Board may otherwise demand, the Board shall issue ballots for the position of Treasurer, in which persons who voluntarily nominate themselves for the position and meet the requirements of the position as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot.
 4. On return of the ballot, the person who has the most number of votes for the position shall be elected Treasurer. If two or more persons may be tied for the most number of votes, then the Board, absent the treasurer, shall choose, from among those tied, the person who shall be hold the position of Treasurer. 
 
 ## §6 Removal of Board Members and Executives
