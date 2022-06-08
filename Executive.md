@@ -35,6 +35,9 @@
     - To instruct the Vice President to assume, on a temporary basis, any or all of the authorities herein and to voluntarily vacate the position to the Vice President
 4. Whenever the Position of Vice President or Treasurer may be vacant, the President may appoint, on a temporary basis, a replacement for that position, or may instruct the board to issue ballots for the positions which shall be returned 48 hours from the date of issue.
 5. The President shall be responsible for any and all interactions with the UWSA, and shall be responsible for ensuring that the VGDC meets the requirements for a Student Group with the UWSA and remains such.
+6. The Board may by regulation set the order of succession for the position of President of the VGDC if both that position and the position of Vice President are vacant.
+    - Until such time as such a regulation shall be made, the succession order for the Position of President shall be: Vice President, Treasurer, Head of Operations, Head of Community, Head of Events, Head of Development.
+    - Where the vacancy for President is the result of a tie on the joint ballot for President and Vice President, no person shall become President under this clause until the Board has succesfully resolved the tie
 
 ## §3 Vice President
 
@@ -67,6 +70,13 @@
     - To preside over the Board while it decides ties on the Joint Ballot for President and Vice President,
 3. Not later than the 31st of March, or as the Board may otherwise demand, the Board shall issue ballots for the position of Treasurer, in which persons who voluntarily nominate themselves for the position and meet the requirements of the position as set by this constitution and by any reasonable, non-discriminatory, restrictions adopted by the Board, shall be candidates for the position presented on the ballot.
 4. On return of the ballot, the person who has the most number of votes for the position shall be elected Treasurer. If two or more persons may be tied for the most number of votes, then the Board, absent the treasurer, shall choose, from among those tied, the person who shall be hold the position of Treasurer. 
+5. The Board may by regulation set the order of succession for the position of Treasurer of the VGDC if that position may be vacant.
+    - Until such time as such a regulation shall be made, the succession order for the Position of Treasurer shall be: Head of Events, Head of Development, Head of Operations, Head of Community.
+    - Where the vacancy for Tresurer is the result of a tie on a ballot for the position of Treasurer, no person shall become Treasurer under this clause until the Board has succesfully resolved the tie.
+    - No person shall become Treasuer until with respect to the president's authority to appoint a Treasurer, one of the following has occured:
+        - The President has ordered ballots be issued for the position of Treasurer, and the ballots were returned with no result,
+        - The President has announced intent to appoint a Treasurer, but has not done so in a reasonable period of time that may be set by regulation, or
+        - The Preside thas waived both of the above authorities with respect ot the vacancy.
 
 ## §6 Removal of Board Members and Executives
 
