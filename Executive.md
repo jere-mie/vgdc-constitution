@@ -76,7 +76,7 @@
     - No person shall become Treasuer until with respect to the president's authority to appoint a Treasurer, one of the following has occured:
         - The President has ordered ballots be issued for the position of Treasurer, and the ballots were returned with no result,
         - The President has announced intent to appoint a Treasurer, but has not done so in a reasonable period of time that may be set by regulation, or
-        - The President has waived both of the above authorities with respect ot the vacancy.
+        - The President has waived both of the above authorities with respect to the vacancy.
 
 ## §6 Removal of Board Members and Executives
 
